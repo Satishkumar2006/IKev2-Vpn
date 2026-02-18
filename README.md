@@ -302,8 +302,6 @@ gcloud compute scp <INSTANCE_NAME>:/home/<user>/client1.p12 ./
        Internet Access
 ```
 
-*(In the PDF version, this is replaced with a full color-coded diagram with icons.)*
-
 ---
 
 ## 13. Appendix
